@@ -19,5 +19,15 @@
 
 **2. TeX**
 - 조판 프로그램으로 수학, 물리학, 컴퓨터 과학, 경제학 등 많은 분야에서 논문, 책자, 발표 슬라이드 등 다양한 문서 작성을 위해 사용되며 수식을 표현하는데 있어 강력하다.
+- 단점으로는 사용자가 명령어를 따로 익혀야 한다는 점에 있어 진입장벽이 다소 있는 것이다.
+- TeX는 두 가지 목적을 가진다. 최소한의 노력으로 미려한 문서를 얻기 그리고 컴퓨터 기종에 관계없이 같은 결과물을 얻기
+- .dvi(device independent format) 확장자를 가진다.
+- Typora에서는 $$(들어갈 수식)$$의 형태로 수식을 작성할 수 있다.
 
-출처 : Wikipedia LaTeX, TeX
+
+
+출처  
+
+- Wikipedia [LaTeX](https://en.wikipedia.org/wiki/LaTeX), [TeX](https://ko.wikipedia.org/wiki/TeX)
+- [LaTeX document preparation system](https://www.latex-project.org/)
+
